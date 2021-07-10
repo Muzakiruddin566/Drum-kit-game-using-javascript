@@ -1,0 +1,81 @@
+body{
+	background-color:#30475e;
+}
+.heading{
+	text-align: center;
+	font-size:4rem !important;
+	font-family: 'Merriweather', serif;
+}
+.pic1{
+	background-image:url("../pics/tom1.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	padding: 5rem 6rem;
+	font-size: 3rem !important;
+	margin-left:2rem !important;
+	margin-right: 1rem !important;
+}
+.pic2{
+	background-image:url("../pics/tom2.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	padding: 5rem 6rem;
+	font-size: 3rem !important;
+	margin-right: 1rem !important;
+}
+.pic3{
+	background-image:url("../pics/tom3.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	padding: 5rem 6rem;
+	font-size: 3rem !important;
+	margin-right: 1rem !important;
+}.pic4{
+	background-image:url("../pics/tom4.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	padding: 5rem 6rem;
+	font-size: 3rem !important;
+	margin-right: 1rem !important;
+}
+.pic5{
+	background-image:url("../pics/snare.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	padding: 5rem 6rem;
+	font-size: 3rem !important;
+	margin-right: 1rem !important;
+}
+.pic6{
+	background-image:url("../pics/kick.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	padding: 5rem 6rem;
+	font-size: 3rem !important;
+	margin-right: 1rem !important;
+	margin-left:20rem !important;
+}
+.pic7{
+	font-size: 3rem !important;
+	margin:10px auto;
+	background-image:url("../pics/crash.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position:center;
+	padding: 5rem 6rem;
+	margin-right: 1rem !important;
+}
+
+
+.border-1{
+    border:2px groove; 
+	box-shadow: 4px 3px 10px 6px black;
+	opacity: 1;
+}
+
